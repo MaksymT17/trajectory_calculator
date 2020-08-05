@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <math.h>
 #include "TrajectoryCalculator.h"
 
@@ -24,4 +23,3 @@ Position TrajectoryCalculator::getPositionForTime(float time)
 
 	return pos;
 }
-

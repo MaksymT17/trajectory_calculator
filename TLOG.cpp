@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "TLOG.h"
 #include <iostream>
 #include <string>

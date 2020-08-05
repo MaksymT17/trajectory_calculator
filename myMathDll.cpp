@@ -1,7 +1,6 @@
 // myMathDll.cpp : Defines the exported functions for the DLL application.
 //
 
-#include "stdafx.h"
 #include "myMathDll.h"
 #include <stdio.h>
 #include <math.h>

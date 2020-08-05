@@ -1,6 +1,5 @@
 
-#ifndef TRCALCULATOR_HEADER
-#define TRCALCULATOR_HEADER
+#pragma once
 #include "Position.h"
 #include "PhysObject.h"
 
@@ -18,5 +17,3 @@ private:
 	float mAngle;
 	float mSpeed;
 };
-
-#endif
